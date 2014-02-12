@@ -1,5 +1,7 @@
 $bgtestcolor : #AABB54;
 $htestcolor : #CCBB00;
+$htwotestcolor : #F5A9F2;
+$spantestcolor : #A9F5E1;
 
 body {
 	background: $bgtestcolor;
@@ -7,4 +9,12 @@ body {
 
 h1 {
 	background: $htestcolor;
+}
+
+h2 {
+	background: $htwotestcolor;
+}
+
+span {
+	background: $spantestcolor;
 }
