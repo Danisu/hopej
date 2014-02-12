@@ -1,7 +1,8 @@
-#Ignore OS X files
+#Ignore OS X files and dir
 .DS_Store
 .DS_Store?
 *.sass-cache*
+node_modules/
 
 # Compiled source #
 ###################

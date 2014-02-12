@@ -1,0 +1,10 @@
+$bgtestcolor : #AABBCC;
+$htestcolor : #CCBBAA;
+
+body {
+	background: $bgtestcolor;
+}
+
+h1 {
+	background: $htestcolor;
+}
